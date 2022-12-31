@@ -1,4 +1,4 @@
-# Skylake - H170 - RX 570 - macOS 13.1 (Ventura)
+# Skylake - H170 - RX 570 - OpenCore 0.8.7 - macOS 13.1 (Ventura)
 
 # Hardware Used
 | Component | Model |
