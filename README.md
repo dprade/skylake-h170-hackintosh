@@ -6,6 +6,8 @@
 | CPU | i5 6400 |
 | Motherboard | MSI H170M PRO-VDH D3|
 | RAM | DDR3 1600Mhz (4 x 4GB)|
+| GPU | Asus RX 570 4GB|
+| | HD530 (Disabled in BIOS)|
 | Storage | Samsung 840 Evo SATA SSD|
 | Network | Fenvi FW-T919|
 | SMBIOS | iMac Pro 1,1|
@@ -35,6 +37,7 @@
 - [x] Sleep
 - [x] Shutdown
 - [x] Continuity Features
+- [x] DRM
 
 # What doesn't work
 - [ ] USB does not wake system from sleep
