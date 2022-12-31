@@ -8,6 +8,7 @@
 | RAM | DDR3 1600Mhz (4 x 4GB)|
 | Storage | Samsung 840 Evo SATA SSD|
 | Network | Fenvi FW-T919|
+| SMBIOS | iMac Pro 1,1|
 
 # Bootloader 
 - OpenCore 0.8.7
