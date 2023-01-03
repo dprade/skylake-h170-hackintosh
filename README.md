@@ -5,9 +5,9 @@
 | --------- | ----- |
 | CPU | i5 6400 |
 | Motherboard | MSI H170M PRO-VDH D3|
-| RAM | DDR3 1600Mhz (4 x 4GB)|
+| RAM | 16GB DDR3 1600Mhz (4 x 4GB)|
 | GPU | Asus RX 570 4GB|
-| | HD530 (Disabled in BIOS)|
+| iGPU | HD530 (Disabled in BIOS, for DRM functionality)|
 | Storage | Samsung 840 Evo SATA SSD|
 | Network | Fenvi FW-T919|
 | SMBIOS | iMac Pro 1,1|
@@ -36,11 +36,13 @@
 - [x] iServices
 - [x] Sleep
 - [x] Shutdown
-- [x] Continuity Features
-- [x] DRM
+- [x] Continuity Features (Handoff, Continuity Camera and Continuity Sketch tested)
+- [x] DRM (Netflix, Prime Video tested)
 
 # What doesn't work
 - [ ] USB does not wake system from sleep
 
 # Guide Used
 https://dortania.github.io/OpenCore-Install-Guide/
+https://www.hackintosh-forum.de/forum/thread/54222-fenvi-fw-t919/
+
