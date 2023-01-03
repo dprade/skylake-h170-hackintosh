@@ -44,5 +44,6 @@
 
 # Guide Used
 https://dortania.github.io/OpenCore-Install-Guide/
+
 https://www.hackintosh-forum.de/forum/thread/54222-fenvi-fw-t919/
 
